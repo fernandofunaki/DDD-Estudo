@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-
     public enum EBannerType
     {
         DEPARTAMENT = 1, SERVICE = 2, CARROUSEL = 3, MINI_CARROUSEL = 4, FOOTER = 5, TOP = 6
